@@ -21,6 +21,6 @@ To merge these three data files into a single file I have used .merge() function
 
     GENERATE OUTPUT
 
-Now to save that output data file I have used .to_csv() function with the seperator "sep = "\t"
+Now to save that output data file I have used .to_csv() function with the seperator "sep = '\t'"
 
 By using these three step I was able to solve the program
